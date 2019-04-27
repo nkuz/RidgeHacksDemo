@@ -5,3 +5,4 @@ Enter your name as a bullet
 
 * Nastassja Kuznetsova
 * Brian Christian
+* Foo
