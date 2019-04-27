@@ -6,3 +6,4 @@ Enter your name as a bullet
 * Nastassja Kuznetsova
 * Brian Christian
 * Bar
+* Foo
