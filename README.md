@@ -7,4 +7,5 @@ Enter your name as a bullet
 * Brian Christian
 * Bar
 * Foo
+* Apple
 * Banana
