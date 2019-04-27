@@ -8,3 +8,4 @@ Enter your name as a bullet
 * Bar
 * Foo
 * Apple
+* Banana
