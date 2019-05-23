@@ -9,4 +9,7 @@ Enter your name as a bullet
 
 * Sofia Szikman
 
+* Ann
+
 * Arya Lakshmanan
+
