@@ -13,5 +13,7 @@ Enter your name as a bullet
 
 * Arya Lakshmanan
 
-* Ashna Gupta
 
+* Kathy
+
+* Ashna Gupta
